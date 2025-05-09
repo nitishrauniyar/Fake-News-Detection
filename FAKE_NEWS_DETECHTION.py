@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 import os
 
-# ⬇️ INSERT YOUR FILE PATHS HERE
+#  INSERT YOUR FILE PATHS HERE
 fake_path = r"C:\Users\ASUS\Desktop\New folder (2)\archive\fake.csv"  # <-- Update this path
 true_path = r"C:\Users\ASUS\Desktop\New folder (2)\archive\true.csv"  # <-- Update this path
 
